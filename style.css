@@ -1,0 +1,89 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: linear-gradient( black, silver);
+    color: white;
+    text-align: center;
+    border: 5px solid white;
+    
+    }
+ body {
+    background: linear-gradient( black, silver);
+    
+ }
+ .center{
+     text-align: center;
+ }
+
+ .jumbotron{
+    border: 4px  silver;
+    position: relative;
+    z-index:-101;
+    overflow:hidden;
+     
+ }
+
+ #video-background { 
+    position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      overflow: hidden;
+      z-index: -100;
+      width:100%;
+ }
+ .head{
+     color:white;
+     font-family: cursive;
+    
+ }
+ .card{
+     height: 420px;
+     width: 200px;
+ }
+
+ .bg-light{
+     background-color:lightblue !important;
+ }
+
+ form{
+     color: white;
+ }
+
+ .container1{
+     text-align: center;
+    
+ }
+ .container2{
+     text-align: center;
+     margin: 10px;
+ }
+
+
+ div img{
+     border: 5px solid black;
+   
+ }
+ .imgfooter{
+     
+ }
+
+ 
+
+ .contact{
+     margin-left: 60px;
+     margin-right: 60px;
+ }
+ .gal{
+     margin:30px;
+ }
+
+ .card-body{
+     background: linear-gradient( black, silver);
+     color:white;
+ }
+
+
