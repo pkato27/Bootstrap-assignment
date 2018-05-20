@@ -1,7 +1,7 @@
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    /* position: fixed; */
+    /* left: 0; */
+    /* bottom: 0; */
     width: 100%;
     background-color: linear-gradient( black, silver);
     color: white;
@@ -22,6 +22,8 @@
     position: relative;
     z-index:-101;
     overflow:hidden;
+    height: 200px;
+   
      
  }
 
@@ -62,17 +64,6 @@
      margin: 10px;
  }
 
-
- div img{
-     border: 5px solid black;
-   
- }
- .imgfooter{
-     
- }
-
- 
-
  .contact{
      margin-left: 60px;
      margin-right: 60px;
@@ -84,6 +75,10 @@
  .card-body{
      background: linear-gradient( black, silver);
      color:white;
+ }
+
+ div img {
+     border: 6px solid black;
  }
 
 
